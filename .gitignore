@@ -16,3 +16,6 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/danielbuzon.pl/v17/.suo
