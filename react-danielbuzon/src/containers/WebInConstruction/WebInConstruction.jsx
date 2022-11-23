@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { PrimaryButton } from "../../components";
 import "./WebInConstruction.css";
 
-import Pdf from "../../assets/files/danielbuzon_CV.pdf";
+import Pdf from "../../assets/files/danielbuzon_CV_EN.pdf";
 import video from "../../assets/images/mp4bg_2_c.mp4";
 
 import { charReveal, elementReveal, textReveal } from "../../hooks/textReveal";
